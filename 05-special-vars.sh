@@ -2,7 +2,10 @@
 
 # Special Variables are $0-$n , $* , $@ , $#
 
-echo Script Name = $0
+echo script Name = $0
 
 echo Fisrt Argument = $1
-echo Second Argument = $3
+echo Second Argument = $2
+
+
+
