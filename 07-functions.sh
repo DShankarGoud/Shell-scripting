@@ -20,5 +20,5 @@ sample
 
 ## Function always be declared first and then we need to call them later in main program
 
-samle1
+sample1
 echo Exit status of sample1 = $?
