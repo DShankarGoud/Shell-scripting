@@ -3,5 +3,7 @@
 name=$1
 
 if [ "$name" == "DevOps" ]; then
-  echo Yes , DevOps is Availbale
+  echo Yes , $name is Availbale
+else
+  echo no , $name is not Availbale
 fi
