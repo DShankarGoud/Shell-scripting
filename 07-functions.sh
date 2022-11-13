@@ -15,3 +15,5 @@ sample() {
 
 ## main program
 sample
+
+## Function always be declared first and then we need to call them later in main program
