@@ -7,3 +7,6 @@ if [ "$name" == "DevOps" ]; then
 else
   echo no , $name is not Availbale
 fi
+
+
+## Best practice, Always double quote your values and variables in Expressions
