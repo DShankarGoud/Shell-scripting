@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Name=DevOps
+Name=AWS
 
 case $Name in
    DevOps)
